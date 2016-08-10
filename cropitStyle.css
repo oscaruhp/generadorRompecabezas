@@ -1,0 +1,20 @@
+.cropit-preview {
+	  background-color: #f8f8f8;
+	  background-size: cover;
+	  border: 1px solid #ccc;
+	  border-radius: 3px;
+	  margin-top: 7px;
+	  width: 802px;height: 602px;
+}
+.cropit-preview-image-container {  
+	cursor: move;
+}
+.image-size-label { 
+	margin-top: 10px; 
+}
+input, .export { 
+	display: block; 
+}
+button { 
+	margin-top: 10px; 
+}
